@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hey there!
 
-<!--
-**amolikvivian/amolikvivian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Vision and NLP Enthusiast. Most of my development revolves around implementing Deep Learning Techniques through Computer Vision.
 
-Here are some ideas to get you started:
+Have a keen interest in developing Internet of Things based solutions for real life problems. Worked extensively on Arduinos, ESP Modules and Raspberry Pi to develop
+projects from scratch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a working knowledge of web development in HTML, CSS and PHP.
+
+Advanced with Data Structures in Java with intermediate understanding of Advanced Algorithms.
+
+- 🔭 I’m currently working on ... OpenCV, Keras and Tensorflow 
+- 💻 I’m currently learning ... BERT
+- 💬 Ask me about ... Computer Vision 
+- 📫 How to reach me ... [Mail](amolikvivian@gmail.com) or [LinkedIn](linkedin.com/in/amolikvivian)
+- 📝 What I write ... [Medium](amolikvivian@gmail.com)
