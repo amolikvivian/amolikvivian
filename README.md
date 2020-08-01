@@ -3,11 +3,11 @@
 I'm a Computer Vision and NLP Enthusiast. Most of my development revolves around implementing Deep Learning Techniques through Computer Vision.
 
 Have a keen interest in developing Internet of Things based solutions for real life problems. Worked extensively on Arduinos, ESP Modules and Raspberry Pi to develop
-projects from scratch
+projects.
 
-I have a working knowledge of web development in HTML, CSS and PHP. Exploring React.js.
+I have a working knowledge of web development in HTML, CSS and PHP. Exploring React and Tensorflow with JS.
 
-Advanced with Data Structures in Java with intermediate understanding of Advanced Algorithms.
+Advanced Data Structures in Java with intermediate understanding of advanced Algorithms.
 
 - 🔭 I’m currently working on ... OpenCV, Keras and Tensorflow 
 - 💻 I’m currently learning ... React.js and ROS
