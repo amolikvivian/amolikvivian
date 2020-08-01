@@ -12,5 +12,5 @@ Advanced Data Structures in Java with intermediate understanding of advanced Alg
 - 🔭 I’m currently working on ... OpenCV, Keras and Tensorflow 
 - 💻 I’m currently learning ... React.js and ROS
 - 💬 Ask me about ... Computer Vision 
-- 📫 How to reach me ... [Mail](amolikvivian@gmail.com) or [LinkedIn](linkedin.com/in/amolikvivian)
+- 📫 How to reach me ... [Mail](amolikvivian@gmail.com) or [LinkedIn](https://linkedin.com/in/amolikvivian)
 - 📝 What I write ... [Medium](amolikvivian@gmail.com)
