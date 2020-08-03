@@ -10,7 +10,14 @@ I have a working knowledge of web development in HTML, CSS and PHP. Exploring Re
 Advanced Data Structures in Java with intermediate understanding of advanced Algorithms.
 
 - 🔭 I’m currently working on ... OpenCV, Keras and Tensorflow 
-- 💻 I’m currently learning ... React.js and ROS
+- 💻 I’m currently learning ... NLP, BERT and ROS
 - 💬 Ask me about ... Computer Vision 
 - 📫 How to reach me ... [Mail](amolikvivian@gmail.com) or [LinkedIn](https://linkedin.com/in/amolikvivian)
-- 📝 What I write ... [Medium](amolikvivian@gmail.com)
+- 📝 What I write ... [Medium](https://medium.com/amolikvivian)
+
+
+<img
+align="left"
+alt="Github Stats"
+src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons=true&hide_border=true"
+/>
