@@ -6,7 +6,7 @@ I'm a Computer Vision and NLP Enthusiast. Most of my development revolves around
 Have a keen interest in developing Internet of Things based solutions for real life problems. Worked extensively on Arduinos, ESP Modules and Raspberry Pi to develop
 projects.
 
-I have a working knowledge of web development in HTML, CSS and PHP. Exploring React and Tensorflow with JS.
+I have a working knowledge of web development in HTML, CSS and PHP. Exploring Javascript, React and Tensorflow with JS.
 
 Advanced Data Structures in Java with intermediate understanding of advanced Algorithms.
 
