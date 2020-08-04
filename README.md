@@ -11,10 +11,10 @@ I have a working knowledge of web development in HTML, CSS and PHP. Exploring Ja
 Advanced Data Structures in Java with intermediate understanding of advanced Algorithms.
 
 - 🔭 I’m currently working on ... OpenCV, Keras and Tensorflow 
-- 💻 I’m currently learning ... NLP, BERT and ROS
+- 💻 I’m currently learning ... NLP with BERT and Javascript
 - 💬 Ask me about ... Computer Vision 
-- 📫 How to reach me ... [Mail](amolikvivian@gmail.com) or [LinkedIn](https://linkedin.com/in/amolikvivian)
-- 📝 What I write ... [Medium](https://medium.com/amolikvivian)
+- 📫 How to reach me ... [E-mail](amolikvivian@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/amolikvivian)
+- 📝 What I write ... [Medium Profile](https://medium.com/amolikvivian)
 
 
 <img
@@ -23,4 +23,4 @@ alt="Github Stats"
 src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons=true&hide_border=true"
 />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amolikvivian&hide=java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=amolikvivian&hide=java&layout=compact)
