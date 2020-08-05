@@ -65,8 +65,6 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 </td>
 </tr>
 
-<br>
-
 <tr>
 <td align="center" width="20%">
 <span><b><center>OpenCV</center></b></span>
@@ -91,8 +89,13 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Iot - AWS</center></b></span> 
-<img src="img/aws-cloud.png"/>
+<span><b><center>Raspberry Pi</center></b></span> 
+<img src="https://img.icons8.com/color/50/000000/raspberry-pi.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Iot with AWS</center></b></span> 
+<img src="img/aws-cloud.png" width="50" height="50"/>
 </td>
 </tr>
 
