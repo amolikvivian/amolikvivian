@@ -65,6 +65,7 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 </td>
 </tr>
 
+<br>
 
 <tr>
 <td align="center" width="20%">
@@ -83,6 +84,17 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 </td>
 </tr>
 
+<tr>
+<td align="center" width="20%">
+<span><b><center>Arduino</center></b></span>
+<img src="https://img.icons8.com/color/2x/arduino.png"/>
+</td>
+
+<td align="center" width="20%">
+<span><b><center>Iot - AWS</center></b></span> 
+<img src="img/aws-cloud.png"/>
+</td>
+</tr>
 
 </tbody>
 </table
