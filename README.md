@@ -95,7 +95,7 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 
 <td align="center" width="20%">
 <span><b><center>Iot with AWS</center></b></span> 
-<img src="img/aws-cloud.png" width="50" height="50"/>
+<img src="img/aws-cloud.png" width="80" height="60"/>
 </td>
 </tr>
 
