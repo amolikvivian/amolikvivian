@@ -26,8 +26,6 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 [](https://github-readme-stats.vercel.app/api/top-langs/?username=amolikvivian&hide=java&layout=compact)
 
 
-### Tech Stack
-
 
 <br>
 <table>
