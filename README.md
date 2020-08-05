@@ -33,68 +33,68 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Java</center></b></span> 
+<span><b><center></center></b></span> 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
+<span><b><center></center></b></span> 
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>C++</center></b></span>
+<span><b><center></center></b></span>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>HTML</center></b></span> 
+<span><b><center></center></b></span> 
 <img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>CSS</center></b></span> 
+<span><b><center></center></b></span> 
 <img src="https://img.icons8.com/color/48/000000/css3.png" width="65" height="65"/> 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Javascript</center></b></span>
+<span><b><center></center></b></span>
 <img src="https://img.icons8.com/color/50/000000/javascript.png"/>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>OpenCV</center></b></span>
-<img src="https://docs.opencv.org/2.4/_static/opencv-logo-white.png" width="50" height="50"/>
+<span><b><center></center></b></span>
+<img src="https://docs.opencv.org/2.4/_static/opencv-logo-white.png" width="50" height="60"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Tensorflow</center></b></span> 
+<span><b><center></center></b></span> 
 <img height=65px src="https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android/img/657431be3173fa86.png" > 
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Keras  </center></b></span> 
+<span><b><center></center></b></span> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" height="50"/> 
 </td>
 </tr>
 
 <tr>
 <td align="center" width="20%">
-<span><b><center>Arduino</center></b></span>
+<span><b><center></center></b></span>
 <img src="https://img.icons8.com/color/2x/arduino.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Raspberry Pi</center></b></span> 
+<span><b><center></center></b></span> 
 <img src="https://img.icons8.com/color/50/000000/raspberry-pi.png"/>
 </td>
 
 <td align="center" width="20%">
-<span><b><center>IoT with AWS</center></b></span> 
+<span><b><center></center></b></span> 
 <img src="https://openvpn.net/wp-content/uploads/2018/04/awscloud.svg" width="80" height="60"/>
 </td>
 </tr>
