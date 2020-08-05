@@ -68,7 +68,7 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 <tr>
 <td align="center" width="20%">
 <span><b><center>OpenCV</center></b></span>
-<img src="img/opencv.png" width="50" height="50"/>
+<img src="https://docs.opencv.org/2.4/_static/opencv-logo-white.png" width="50" height="50"/>
 </td>
 
 <td align="center" width="20%">
@@ -78,7 +78,7 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 
 <td align="center" width="20%">
 <span><b><center>Keras  </center></b></span> 
-<img src="img/keras.png" width="50" height="50"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" width="50" height="50"/> 
 </td>
 </tr>
 
@@ -95,7 +95,7 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 
 <td align="center" width="20%">
 <span><b><center>IoT with AWS</center></b></span> 
-<img src="img/aws-cloud.png" width="80" height="60"/>
+<img src="https://openvpn.net/wp-content/uploads/2018/04/awscloud.svg" width="80" height="60"/>
 </td>
 </tr>
 
