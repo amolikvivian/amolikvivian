@@ -95,7 +95,7 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://openvpn.net/wp-content/uploads/2018/04/awscloud.svg" width="80" height="60"/>
+<img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" width="80" height="60"/>
 </td>
 </tr>
 
