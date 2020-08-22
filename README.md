@@ -95,8 +95,9 @@ src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons
 
 <td align="center" width="20%">
 <span><b><center></center></b></span> 
-<img src="https://pbs.twimg.com/profile_images/1273307847103635465/lfVWBmiW_400x400.png" width="80" height="60"/>
+<img src="https://cdn4.iconfinder.com/data/icons/bloomies-webdesign-tools/25/Figma_square-512.png" width="85" height="85"/>
 </td>
+
 </tr>
 
 </tbody>
