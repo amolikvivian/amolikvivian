@@ -11,8 +11,8 @@ I have a working knowledge of web development in HTML, CSS and PHP. Exploring Ja
 Advanced Data Structures in Java with intermediate understanding of advanced Algorithms.
 
 - 🔭 I’m currently working on ... OpenCV, Deep Learning with Keras and Tensorflow 
-- 💻 I’m currently learning ... Tensorflow.js
-- 💬 Ask me about ... Computer Vision 
+- 💻 I’m currently learning ... Vue.js, Tensorflow.js
+- 💬 Ask me about ... Computer Vision, Machine Learning
 - 📫 How to reach me ... [E-mail](amolikvivian@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/amolikvivian)
 - 📝 What I write ... [Medium Profile](https://medium.com/amolikvivian)
  
