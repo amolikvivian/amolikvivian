@@ -16,12 +16,12 @@ Advanced Data Structures in Java with intermediate understanding of advanced Alg
 - 📫 How to reach me ... [Mail](amolikvivian@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/amolikvivian)
 - 📝 What I write ... [Medium Profile](https://medium.com/amolikvivian)
  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolikvivian&layout=compact&theme=vue-dark)](https://github.com/riasingh12)
 
 <img
 align="left"
 alt="Github Stats"
-src="https://github-readme-stats.vercel.app/api?username=amolikvivian&show_icons=true&hide_border=true"
-/>
+src="https://github-readme-stats.vercel.app/api?username=amolikvivian&hide=issues&show_icons=true&include_all_commits=true&theme=vue-dark"/>
 
 <br>
 
