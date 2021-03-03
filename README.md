@@ -1,7 +1,7 @@
 
-### Hey there!
+### Hey there! 👋🚀
 
-I'm a Computer Vision and NLP Enthusiast. Most of my development revolves around implementing Deep Learning Techniques through Computer Vision.
+I'm a Computer Vision and Vue JS developer enthusiat. Most of my projects here revolve around implementing Deep Learning Techniques through Computer Vision and a few web based applications.
 
 Have a keen interest in developing Internet of Things based solutions for real life problems. Worked extensively on Arduinos, ESP Modules and Raspberry Pi to develop
 projects.
@@ -10,8 +10,8 @@ Currently exploring web development with Javascript, more specifically in VueJS.
 
 Advanced Data Structures in Java with intermediate understanding of Algorithms.
 
-- 🔭 I’m currently working on ... OpenCV, Deep Learning with Keras and Tensorflow, Reinforcement Learning
-- 💻 I’m currently learning ... Vue.js, Tensorflow.js, Pytorch
+- 🔭 I’m currently working on ... VueJS, Deep Learning with Keras and Tensorflow, Reinforcement Learning
+- 💻 I’m currently learning ... VueX, Vuetify,  Pytorch
 - 💬 Ask me about ... Computer Vision, Machine Learning, Deep Learning
 - 📫 How to reach me ... [Mail](amolikvivian@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/amolikvivian)
 - 📝 What I write ... [Medium Profile](https://medium.com/amolikvivian)
@@ -19,7 +19,7 @@ Advanced Data Structures in Java with intermediate understanding of Algorithms.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolikvivian&layout=compact&theme=vue-dark)](https://github.com/riasingh12)
 
 
-### Languages and Tools:
+### Languages and Tools 🛠️
 
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
