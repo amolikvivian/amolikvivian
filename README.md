@@ -10,15 +10,15 @@ Currently exploring web development with Javascript, more specifically in VueJS.
 
 Advanced Data Structures in Java with intermediate understanding of Algorithms.
 
-- 🔭 I’m currently working on ... VueJS, Deep Learning, Reinforcement Learning
+- 👨‍💻 I’m currently working on ... VueJS, Deep Learning, Reinforcement Learning
 
 - 💻 I’m currently learning ... VueX, Vuetify, Pytorch
 
 - 💬 Ask me about ... Computer Vision, Machine Learning, Deep Learning, Vue
 
-- 📫 Contact ... [Mail](amolikvivian@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/amolikvivian)
+- 📨 Contact ... [Mail](amolikvivian@gmail.com) or [LinkedIn Profile](https://linkedin.com/in/amolikvivian)
 
-- 📝 Blogs ... [Medium Profile](https://medium.com/amolikvivian)
+- 🗒️ Blogs ... [Medium Profile](https://medium.com/amolikvivian)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolikvivian&layout=compact&theme=vue-dark)](https://github.com/riasingh12)
 
