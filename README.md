@@ -20,7 +20,7 @@ Advanced Data Structures in Java with intermediate understanding of Algorithms.
 
 - 🗒️ Blogs ... [Medium Profile](https://medium.com/amolikvivian)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolikvivian&layout=compact&theme=vue-dark)](https://github.com/riasingh12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolikvivian&layout=compact&theme=vue-dark)]
 
 
 ### Languages and Tools 🛠️
