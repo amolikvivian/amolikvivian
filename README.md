@@ -10,7 +10,7 @@ Currently exploring web development with Javascript, more specifically in VueJS.
 
 Advanced Data Structures in Java with intermediate understanding of Algorithms.
 
-- 👨‍💻 Working on ... VueJS, NuxtJS, Deep Learning
+- 👨‍💻 Working on VueJS, NuxtJS and Deep Learning
 
 - 💻 Currently learning PyTorch and brushing up on my Data Structures and Algorithms - Trees, Graphs in specific.
 
