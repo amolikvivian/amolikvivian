@@ -1,27 +1,30 @@
 
 ### Hey there! 👋🚀
 
-I'm a Computer Vision and Vue JS developer enthusiat. Most of my projects here revolve around implementing Deep Learning Techniques through Computer Vision and a few web based applications.
+I'm a Computer Vision and Vue JS developer enthusiat. Most of my projects here revolve around implementing Deep Learning Techniques 
+through Computer Vision and a few web based applications. 
 
-Have a keen interest in developing Internet of Things based solutions for real life problems. Worked extensively on Arduinos, ESP Modules and Raspberry Pi to develop
-projects.
+Have a keen interest in developing Internet of Things working on Arduinos, ESP Modules and Raspberry Pi to develop projects.
  
-Currently exploring web development with Javascript, more specifically in VueJS.
+Currently exploring and working in web development with Javascript, more specifically VueJS. Learning Express with NodeJS.
 
 Advanced Data Structures in Java with intermediate understanding of Algorithms.
 
-- 👨‍💻 Working on VueJS, NuxtJS and Deep Learning
+Python Development, specifically with data related projects - Pandas, Numpy, Visualizations for Exploratory Data Analysis. 
+Skilled with Flask REST APIs, learning Django and FastAPI to create more detailed backend structures.
 
-- 💻 Currently learning PyTorch and brushing up on my Data Structures and Algorithms - Trees, Graphs in specific.
 
-- 💬 Ask me about Computer Vision, Deep Learning, VueJS 
+- 👨‍💻 Working on VueJS, NuxtJS and Deep Learning, Python
+
+- 💻 Brushing up on my Data Structures and Algorithms.
+
+- 💬 Ask me about Python Development, Computer Vision, VueJS (Vue Ecosystem).
 
 - 📨 Contact me through [Mail](amolikvivian@gmail.com) or on [LinkedIn](https://linkedin.com/in/amolikvivian)
 
 - 🗒️ Find my blog on my [Medium Profile](https://medium.com/amolikvivian)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolikvivian&layout=compact&theme=vue-dark)
-
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amolikvivian&layout=compact&theme=vue-dark)-->
 
 ### Languages and Tools 🛠️
 
