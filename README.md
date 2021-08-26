@@ -4,21 +4,23 @@
 I'm a Computer Vision and Vue JS developer enthusiat. Most of my projects here revolve around implementing Deep Learning Techniques 
 through Computer Vision and a few web based applications. 
 
+Currently working in web development with Javascript, more specifically VueJS. Experienced with consuming APIs
+on the frontend, learning to create endpoints now. Working with databases like MongoDB and backend dev with Express and Node as you read this.
+
+Comprehensive understanding of Data Structures in Java with intermediate understanding of Algorithms.
+
+Python Development, specifically with data related projects - Pandas, Numpy, Visualizations for Exploratory Data Analysis.
+
+Skilled with Flask REST APIs, FastAPI for backend tasks.
+
 Have a keen interest in developing Internet of Things working on Arduinos, ESP Modules and Raspberry Pi to develop projects.
- 
-Currently exploring and working in web development with Javascript, more specifically VueJS. Learning Express with NodeJS.
-
-Advanced Data Structures in Java with intermediate understanding of Algorithms.
-
-Python Development, specifically with data related projects - Pandas, Numpy, Visualizations for Exploratory Data Analysis. 
-Skilled with Flask REST APIs, learning Django and FastAPI to create more detailed backend structures.
 
 
-- 👨‍💻 Working on VueJS, NuxtJS and Deep Learning, Python
+- 👨‍💻 Working on VueJS, NuxtJS and Deep Learning, Python.
 
 - 💻 Brushing up on my Data Structures and Algorithms.
 
-- 💬 Ask me about Python Development, Computer Vision, VueJS (Vue Ecosystem).
+- 💬 Ask me about Python Development, VueJS (Vue Ecosystem), CSS, Computer Vision,  .
 
 - 📨 Contact me through [Mail](amolikvivian@gmail.com) or on [LinkedIn](https://linkedin.com/in/amolikvivian)
 
