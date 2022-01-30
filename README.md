@@ -1,26 +1,18 @@
 
 ### Hey there! 👋🚀
 
-I'm a Computer Vision and Vue JS developer enthusiat. Most of my projects here revolve around implementing Deep Learning Techniques 
-through Computer Vision and a few web based applications. 
+I'm a Frontend web developer with a JavaScript and VueJS. Most of my projects here revolve around web applications using Vue and Deep Learning Computer Vision implementations.
 
-Currently working in web development with Javascript, more specifically VueJS. Experienced with consuming APIs
-on the frontend, learning to create endpoints now. Working with databases like MongoDB and backend dev with Express and Node as you read this.
+Currently working in web development with Javascript, more specifically VueJS. Experienced with interacting with large sets of APIs while maintaining seamless User Interface and User Experience. Advanced CSS and SASS with experience in UI libraries like Vuetify, Material UI, Bootstrap, Tailwind CSS. 
+
+Love to explore about new trends in UI designs, implementing them and studying about how they complement User Experiences of products in general. Always up for conversations and discussions when it comes to understanding User Experience psychologies on the frontend aspect.
 
 Comprehensive understanding of Data Structures in Java with intermediate understanding of Algorithms.
 
-Python Development, specifically with data related projects - Pandas, Numpy, Visualizations for Exploratory Data Analysis.
+Python Development, specifically with data related projects - Pandas, Numpy, Data Visualizations, Wrangling and Analysis.
 
-Skilled with Flask REST APIs, FastAPI for backend tasks.
+Skilled with Flask REST APIs, FastAPI for backend tasks, intermediate with Django.
 
-Have a keen interest in developing Internet of Things working on Arduinos, ESP Modules and Raspberry Pi to develop projects.
-
-
-- 👨‍💻 Working on VueJS, NuxtJS and Deep Learning, Python.
-
-- 💻 Brushing up on my Data Structures and Algorithms.
-
-- 💬 Ask me about Python Development, VueJS (Vue Ecosystem), CSS, Computer Vision,  .
 
 - 📨 Contact me through [Mail](amolikvivian@gmail.com) or on [LinkedIn](https://linkedin.com/in/amolikvivian)
 
