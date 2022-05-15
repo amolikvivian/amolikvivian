@@ -1,7 +1,7 @@
 
 ### Hey there! 👋🚀
 
-I'm a Frontend web developer with a JavaScript and VueJS. Most of my projects here revolve around web applications using the VueJS ecosystem and NuxtJS, 
+I'm a Frontend web developer with a JavaScript and VueJS. Most of my projects here revolve around web applications using the VueJS ecosystem and NuxtJS.
 
 Currently working in frontend web development. Experienced with interacting with large sets of APIs while maintaining seamless User Interface and User Experience. Advanced CSS and SASS with experience in UI libraries like Vuetify, Material UI, Bootstrap, Tailwind CSS. 
 
