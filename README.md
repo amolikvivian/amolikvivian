@@ -9,12 +9,6 @@ Love to explore about new trends in UI designs, implementing them and studying a
 
 Comprehensive understanding of data structures and algorithms.
 
-Python Development, specifically with data related projects - Pandas, Numpy, Data Visualizations, Wrangling and Analysis.
-
-Skilled with FastAPI for backend projects.
-
-
 - 📨 Contact me through [Mail](amolikvivian@gmail.com) or on [LinkedIn](https://linkedin.com/in/amolikvivian)
 
 - 🗒️ Find my blog on my [Medium Profile](https://medium.com/amolikvivian)
- 
